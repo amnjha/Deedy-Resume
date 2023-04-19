@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{}{Aman Kumar Jha}{
-\href{mailto:amanjha22@gmail.com}{amanjha22@gmail.com} | +91 9853638695
+\namesection{}{Anusikha Mishra}{
+\href{mailto:anusikhamishra7209@gmail.com}{anusikhamishra7209@gmail.com} | +91 7044115806
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,50 +83,56 @@
 
 \section{Education} 
 
-\subsection{C.V. Raman College of \\ Engineering}
-\descript{B.Tech in Computer Science}
-\location{June 2016 | Bhubaneswar, IN}
-\location{ Cum. GPA: 8.26 / 10.0}
+\subsection{Narula Institute of \\ Technology}
+\descript{B.Tech in ECE}
+\location{June 2018 | Kolkata, IN}
 \sectionsep
 
-\subsection{D.A.V. Public \\School, Jamshedpur}
-\location{2012 |  CBSE}
+\subsection{Jamshedpur Public \\School, Jamshedpur}
+\location{2014 |  CBSE}
 \sectionsep
 
-\subsection{Kerala Public \\School, Kadma}
-\location{2010 | ICSE}
-\sectionsep
-
+\\[10mm]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
+%     Social Profile
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Social Profile} 
-Website: // \href{amnjha.github.io}{\bf amnjha.github.io} \\
-Github:// \href{https://github.com/amnjha}{\bf amnjha} \\
-LinkedIn://  \href{https://www.linkedin.com/in/amnjha}{\bf amnjha} \\
-Codechef:// \href{https://www.codechef.com/users/amanjha22}{\bf amanjha22}\\[7mm]
+LinkedIn://  \href{https://www.linkedin.com/in/anusikha-mishra-a71851166/}{\bf anusikha-mishra} \\
 
+\\[10mm]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Programming \\Skills}
-\subsection{}
-\location{Languages:}
-\textbullet{} Java \textbullet{}   Python \\[5mm]
-\location{Frameworks:}
-\textbullet{} Spring / Spring-Boot \\ \textbullet{} Flask \\ \textbullet{} JPA /Hibernate \\ \textbullet{} AWS-SDK \\ \textbullet{}
-ELK Stack \\ \textbullet{} JMS (ActiveMQ / AWS SQS) \\ \textbullet{} Apache Phoenix \\[5mm]
-\location{Databases:}
-\textbullet{} PostgreSQL \textbullet{} MongoDB \\ \textbullet{} Oracle-SQL \textbullet{} DynamoDB\\[5mm]
-\location{Build Tools: }
-\textbullet{} Maven \textbullet{} Gradle \\[5mm]
-\location{Containerization :}
-\textbullet{} Docker \textbullet{} Kubernetes \\[5mm]
+\section{Skills}
+\\ [5mm]
+\location{Recruitment:}
+\textbullet{} End to End Recruitment  \\
+\textbullet{} Stakeholder Management \\
+\textbullet{} Vendor Management \\
+\textbullet{} IT Market Understanding \\
+\textbullet{} Contract and Permanent Hiring \\
+\textbullet{} Offer Negotiatons \\ [5mm]
 
-\location{Cloud Platform :}
-\textbullet{} AWS \textbullet{} GCP \\
+\location{Recruitment Portals}
+\textbullet{} Linkedin Recruiter \\
+\textbullet{} Naukri \\
+\textbullet{} Indeed \\
+\textbullet{} Dice \\
+\textbullet{} Career Builder \\
+\textbullet{} Monster \\
+\textbullet{} Application Tracking Systems (ATS) \\[5mm]
+
+\location{Programming Languages:}
+\textbullet{} Java / Java EE \\ \textbullet{} C / C++ \\ \textbullet{} Python \\ \textbullet{} Ruby \\
+\textbullet{} DotNet / C# \\ \textbullet{} Javascript \\[5mm]
+
+\location{Computer Skills}
+\textbullet{} Excel \\ \textbullet{} Word \\ \textbullet{} Powerpoint \\[5mm]
+
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -143,70 +149,56 @@ ELK Stack \\ \textbullet{} JMS (ActiveMQ / AWS SQS) \\ \textbullet{} Apache Phoe
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{ABOUT ME}
-Highly Skilled software development professional bringing around 7
-years of experience in Software design, Development and Integration.
-Extensively Working on Development of Micro-Services. Proficient in
-Cloud Based Technologies. Working Knowledge of ML technologies and
-their Integration with Web Services. \\[5mm]
+To utilize my skills and touch the heights of success and glory by making all possible efforts in an organization. I live with the aim of drilling as much knowledge as I can, irrespective of its domain and make out the use of my skills to people in the best possible way. \\
 \sectionsep
 
 \section{Experience}
-
-\runsubsection{ZestMoney}
-\descript{| Software Development Engineer - III}
-\location{Aug 2022 - Present | Bengaluru, IN}
+\runsubsection{Q Analyst / SA Technologies}
+\descript{| Sr. Technical Recruiter }
+\location{Oct 2022 - Present | Bengaluru, KA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Design, Build and Maintain the Solution around application and processing of Personal Loans
-\item Build and Maintain the ZestMoney Orchestration layer (ZestLife Channel) that acts as a proxy between the Client facing App and the ZestMoney Internal Services
-\item Lead a team of Developers to build and maintain Zestmoney services while coordinating requirements with higher management and design and build solutions around it along with the development team.
-\item Review and Moderation of Codebase
+    \item Responsible for handling E2E Recruitment along with Stakeholder-Management for the client Meta (Facebook)
+    \item Coordinate with Hiring Managers, to forecast hiring needs and departmental goals.
+    \item Conduct candidate sourcing and screening by utilizing various channels based on position requirements and provide recommendations to the hiring managers.
+    \item Collaboration with HR Leadership regarding candidate salary determination.
+    \item Build up personal database of candidates, for various roles and hiring needs.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Lowe's India Pvt Ltd}
-\descript{| Sr. Software Engineer }
-\location{Dec 2021 - Aug 2022 | Bengaluru, IN}
+\runsubsection{Pyramid Consulting}
+\descript{| Sr. Executive Resourcing }
+\location{Apr 2022 – Sep 2022 | Noida, UP}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Development and maintenance of Homegrown Self-Checkout system - Tachyon for the Lowe's Store ambience.
-\item Dashboarding and Alerting for Transactions across Self Checkout Systems
-\item Extending the Self Checkout system to act as a Platform to be used across varied Till types.
-\item Designing and Moderation of Codebase.
+    \item Responsible for handling the entire recruitment cycle.
+    \item Conduct intake / kick-off discussions with panel to understand the position requirements and propose potential hiring solutions.
+    \item Worked on different technologies and domains as per the clients requirements.
+    \item Profile screening of candidates, and taking preliminary interviews.
+    \item Responisble for recruiting both consulting and full time roles, for clients like HCL, Tech Mahindra, etc.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Publicis Sapient}
-\descript{| Software Development Engineer - Contract at Lowe's India}
-\location{Nov 2020 – Dec 2021 | Bengaluru, IN}
+\runsubsection{Aditi Consulting}
+\descript{| Sr. Technical Recuriter }
+\location{Dec 2020 – Mar 2022 | Bengaluru, KA}
 \begin{tightemize}
-\item Enablement of Cash Processing Capabilities across Stores.
-\item Development and Maintenance of capabilities for Self-Checkout Systems
+    \item Stepping into the supplier calls for understanding the clients needs and getting minute details about the role being hired.
+    \item  Working on all phases of recruitment, from writing Job Descriptions, placing job postings online, interviews, offer negotiations, offer rollouts, etc.
+    \item Uploading candidates on VMS Portals for client submissions.
+    \item Worked in an environment with a high frequncy of work requirements.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{HERE. Solutions India Pvt. Ltd }
-\descript{| Sr. Software Engineer }
-\location{Jun 2018 – Oct 202o | Mumbai, IN}
+\runsubsection{Nityo Infotech}
+\descript{|Technical Recruiter}
+\location{Jan 2019 – June 2020 | Noida, UP}
 \begin{tightemize}
-\item Community Platform Applications for Ingestion and Management of
-Map Data, for publishing real-time Map-Updates. Services for Real-Time Map-Data Validation and Repairs before ingestion into the Map for ensuring data quality.
-\item Satellite Image based automated verification of Map-Objects using ML
-Models, and Image Processing, hosted via AWS SageMaker.
-\item Deployment Pipelines for Automated deployment into the AWS
-Infrastructure.
-\item API’s and Services for editing of the Map via HERE Map-Creator.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Zycus Infotech Pvt. Ltd }
-\descript{| Software Engineer}
-\location{Jul 2016 – May 2018 | Mumbai, IN}
-\begin{tightemize}
-\item Central Reporting Management System for the Entire Zycus Product
-Suite.
-\item Data-Warehousing Solution for Central Storage of Data for Customer
-Analytics and Reporting.
+    \item Working as an Individual Contributor and responsible for E2E recruitment delivery for job levels (Entry, Mid-level, Seniors)
+    \item Interacting with candidates and conduct phone screening to capture details of their skills and experience.
+    \item Extending offers and Negotiating with candidates till closure and send new hire package.
+    \item Managing vendors and interacting with vendors for sharing updates.
+    \item Adherence to corporate expectations including accurate and compliant record-keeping.
 \end{tightemize}
 \sectionsep
 
